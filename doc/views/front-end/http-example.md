@@ -15,7 +15,7 @@
 
 <img src="/video403-ok.png"/>
 
-**我们打开控制台，可以看到在项目中打开，数据请求的请求头多了一个 Referer: http://localhost:3000/**
+**我们打开控制台，可以看到在项目中打开，数据请求的请求头多了一个 Referer: `http://localhost:3000/**`
 
 <img src="/video403-no.png"/>
 
